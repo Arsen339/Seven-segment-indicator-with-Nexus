@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/8190884/Arsen/rtl/decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/8190884/Arsen/rtl/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/8190884/Arsen/tb/top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb

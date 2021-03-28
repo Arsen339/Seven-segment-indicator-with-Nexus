@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/8190884/Arsen/lab_example/lab_example.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/8190884/Arsen/rtl/decoder.v,1616482431,verilog,,D:/8190884/Arsen/rtl/top.v,,decoder,,,,,,,,
+D:/8190884/Arsen/rtl/top.v,1616483566,verilog,,D:/8190884/Arsen/tb/top_tb.v,,top,,,,,,,,
+D:/8190884/Arsen/tb/top_tb.v,1616446284,verilog,,,,top_tb,,,,,,,,
