@@ -1,4 +1,5 @@
 module decoder(input wire [3:0] x, output reg [6:0] y);
+//decodes values to indicator
     always @(x) begin
         case(x)
             'd0:     y <= 'b1000000;
